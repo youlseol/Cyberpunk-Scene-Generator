@@ -1,0 +1,5 @@
+{
+  "name": "Cyberpunk Scene Generator",
+  "description": "Generate a vibrant cyberpunk cityscape scene based on a detailed text prompt using the Gemini API.",
+  "requestFramePermissions": []
+}
